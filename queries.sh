@@ -1,6 +1,5 @@
 #! /bin/bash
 
-### Author F.Bruno ###
 
 PSQL="psql --username=freecodecamp --dbname=worldcup --no-align --tuples-only -c"
 
